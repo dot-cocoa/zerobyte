@@ -7,6 +7,7 @@ ZeroByteは、重要なデータを安全に消去するために作られたフ
 - 多層暗号化（IV、ソルト、鍵は保持しません）  
 - メタデータを再現したフェイクファイルの作成  
 - 暗号化後、複数回ランダムバイトでの上書き処理
+- メモリデータの消去
 
 ## ※注意
 このツールはデジタルフォレンジックや調査機関からデータを守るものではなく、あくまでユーザー自身が悪意のある第三者からのからのプライバシー保護を目的としています。
@@ -27,6 +28,8 @@ Multi-layer encryption (IV, salt, and keys are not retained)
 Creation of fake files that replicate metadata
 
 Multiple overwrites with random bytes after encryption
+
+Memory Data Delete
 
 ## ※ Notice
 This tool is not designed to protect data against digital forensics or investigative agencies. Its primary purpose is to help users protect their privacy from malicious third parties.
