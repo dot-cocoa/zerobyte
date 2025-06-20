@@ -1,6 +1,3 @@
-# リリースまでしばらくお待ちください。
-# Comming Soon:)
-
 # 多層暗号痕跡消去処理システム ZeroByte
 
 ZeroByteは、重要なデータを安全に消去するために作られたファイル消去ツールです。  
@@ -41,3 +38,4 @@ This is technically impossible. Furthermore, no backdoors are created or install
 The developer prioritizes user privacy above all else and is committed to preventing user data from leaking externally.
 This tool is provided solely as a means for users to protect their own privacy.
 
+## Contact Discord: @cryptrec.go.jp
